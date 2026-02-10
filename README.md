@@ -18,3 +18,6 @@
 ## 🍮 New Addition: Pompompurin's Garden
 Just added this section to prove I can update the sanctuary!
 Purin is sleeping peacefully on the main branch.
+
+## 😈 Experimental: Badtz-Maru Zone
+This section only exists in the parallel branch.
