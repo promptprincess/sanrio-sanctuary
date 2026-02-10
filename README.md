@@ -21,3 +21,7 @@ Purin is sleeping peacefully on the main branch.
 
 ## 😈 Experimental: Badtz-Maru Zone
 This section only exists in the parallel branch.
+
+## ☁️ Cinnamoroll's Cloud Cafe
+A fluffy addition from the cloned sanctuary.
+Serving warm commits and soft merges.
